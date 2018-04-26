@@ -1,0 +1,22 @@
+{
+  "name": "bloomen-cli",
+  "version": "1.0.0",
+  "description": "Bloomen command line client",
+  "main": "./index.js",
+  "bin": {
+    "bloomen": "./bin/bloomen",
+    "bloo": "./bin/bloomen"
+  },
+  "dependencies": {
+    "commander": "2.15.0",
+    "figlet": "^1.2.0",
+    "progress": "^2.0.0",
+    "prompt": "^1.0.0",
+    "request": "^2.85.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
