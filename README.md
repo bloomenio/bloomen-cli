@@ -40,6 +40,6 @@ This is a first proposal of command line tool for the **Bloomen** project...
 		
 ### in live
 <p align="center">
- <img width="460" height="300" src="/img/screen_rec.gif?raw=true">
+ <img src="/img/screen_rec.gif?raw=true">
 </p>
 
