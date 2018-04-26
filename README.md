@@ -37,3 +37,6 @@ This is a first proposal of command line tool for the **Bloomen** project...
         test [options]               test
 
 
+		
+### in live
+<span style="display:block;text-align:center">![Alt Text](/bloomenio/bloomen-cli/blob/master/img/screen_rec.gif?raw=true)</span>
