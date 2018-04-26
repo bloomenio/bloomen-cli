@@ -39,4 +39,7 @@ This is a first proposal of command line tool for the **Bloomen** project...
 
 		
 ### in live
-<span style="display:block;text-align:center">![Alt Text](/img/screen_rec.gif?raw=true)</span>
+<p align="center">
+![Alt Text](/img/screen_rec.gif?raw=true)
+</p>
+
